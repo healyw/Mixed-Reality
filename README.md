@@ -1,5 +1,6 @@
 # Mixed-Reality
 Condition Monitoring Tech Display started by Will Healy and given to Samuel Ray and Paul Belyea
+- Mixed-Reality Github Designed by Samuel Ray
 - Documentation by Samuel Ray from Summer 2019 Semester
 - Counter Built by Paul Belyea and Samuel Ray
 ## Authorization
