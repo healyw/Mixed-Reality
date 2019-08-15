@@ -9,7 +9,7 @@ This project is intended to show what life could be like with industrial manufac
 - BSP 008T: Pressure Sensor
 - BNI 0082: Smartlight
 - BIP 001F: Inductive Sensor
-- BOS 026R: ADCAP RFID S
+- BOS 026R: ADCAP RFID Sensor
 - BTL 1F5N: Linear Transducer
 - BNI 005H: Masterblock
 - BAE 00TK: Power Supply
