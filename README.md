@@ -23,3 +23,10 @@ A C# Script for import into Unity.
 ### ![JSON Updater](https://github.com/healyw/Mixed-Reality/blob/master/documentation-code/JsonUpdater.cs)
 A C# Script for import into Unity (Drag under your scripts in Hierarchy).
 - Add url, type of product, and what you want to get from the masterblock JSON list.
+
+# Next Step Ideas
+- Get HoloLens 2
+- Vuforia Studio
+- Learn how to develop directly into HoloLens
+- Add Status Button
+- Get parameters from sensors through I/O Link
